@@ -37,7 +37,7 @@ Most of a scan is spent waiting for replies, so running many checks at once make
 1. Open the script and set `target` to the IP address you are authorized to scan:
 
    ```python
-   target = "Any authorized target"
+   target = "TARGET_IP"
    ```
 
 2. Run it:
